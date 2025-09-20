@@ -1,0 +1,21 @@
+{
+    "title": "A3UE - The Yulakian War For Independence",
+    "name": "YULAK_A3UE",
+    "author": "* Black Ops *",
+    "website": "",
+    "version": "0.5.8",
+    "buildPath": "build",
+    "privateKey": "",
+    "serverDirs": [],
+    "serverUse32bit": false,
+    "clientDirs": [
+    	"A3UE/addons/core",
+      	"A3UE/addons/functions",
+      	"A3UE/addons/hals",
+      	"A3UE/addons/templates",
+      	"A3UE/addons/ultimate"
+    ],
+    "clientMods": [],
+    "ftpConnection": {},
+    "steamPath": "M:\\SteamLibrary\\"
+}
